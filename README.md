@@ -45,7 +45,9 @@
 <section>
     <h2>About Me</h2>
     <p>[Insert a brief bio or description here]</p>
-</section>
+<section>
+    <h2>Follow Me</h2>
+    <p>Check out my YouTube channel: <a href="https:https://www.youtube.com/@GamingWithSaidul1
 
 <section>
     <h2>Interests</h2>
